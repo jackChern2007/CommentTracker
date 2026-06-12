@@ -2,6 +2,10 @@
 
 A lightweight React app for organizing and analyzing engagement on your LinkedIn posts. Track comments, threaded replies, and repeat commenters — all saved locally in your browser.
 
+**🔗 Live app: [jackchern2007.github.io/CommentTracker](https://jackchern2007.github.io/CommentTracker/)**
+
+No install needed — just open the link and start tracking. Your data is saved privately in your own browser.
+
 ## Why This Exists
 
 If you're actively posting on LinkedIn, you'll notice the same people showing up in your comments across different posts. LinkedIn doesn't give you a good way to track this. This tool lets you log comments, preserve full reply threads, and automatically surface your most engaged followers with tiered scoring.
@@ -34,8 +38,8 @@ If you're actively posting on LinkedIn, you'll notice the same people showing up
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/linkedin-comment-tracker.git
-cd linkedin-comment-tracker
+git clone https://github.com/jackChern2007/CommentTracker.git
+cd CommentTracker
 
 # Install dependencies
 npm install
